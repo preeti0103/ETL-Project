@@ -21,11 +21,11 @@ CREATE TABLE "happiness_index" (
 );
 
 CREATE TABLE "corruption_index" (
-    "corruption_index" INT   NOT NULL,
+    "corruption_rank" INT   NOT NULL,
     "country_id" INT   NOT NULL,
     "corruption_score" FLOAT   NULL,
     CONSTRAINT "pk_corruption_index" PRIMARY KEY (
-        "corruption_index"
+        "corruption_rank"
      )
 );
 
