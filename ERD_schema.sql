@@ -57,4 +57,3 @@ REFERENCES "country" ("country_id");
 
 ALTER TABLE "gdp_data" ADD CONSTRAINT "fk_gdp_data_country_id" FOREIGN KEY("country_id")
 REFERENCES "country" ("country_id");
-
