@@ -46,10 +46,15 @@ In PgAdmin, we created a new database named 'ETL_project_db' and created tables 
 
 ![etl](https://github.com/preeti0103/ETL-Project/blob/master/screenshots/load_dataframe.png) <br/>
 
-We created ERD for our schema. click 
+
+### Entity Relationship Diagram
+
+Below is the Entity Relationship Diagram of our schema: <br/>
 
 ![etl](https://github.com/preeti0103/ETL-Project/blob/master/ERD.png)
 
+
+### Schema
 
 Click for [schema file](https://github.com/preeti0103/ETL-Project/blob/master/schema.sql) file.
 
