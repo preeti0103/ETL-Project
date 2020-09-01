@@ -1,5 +1,8 @@
 # ETL-Project
 
+![etl](https://github.com/preeti0103/ETL-Project/blob/master/image/etl-processes.png) </br>
+
+
 We are creating a database on the World Happiness scores and pairing that data with data from World Bank to see which data points affect the Happiness scores (e.g. population, corruption, GDP per capita etc.)
 
 
