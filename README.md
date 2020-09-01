@@ -41,7 +41,7 @@ The dataset we got was clean so we were not required to drop any data points lik
 
 ## 3. Load :
 
-We had a structured dataset so we decided to use PostgresSql to create the database.
+We had a structured dataset so we decided to use PostgresSql to create the database. It becomes easier for data analyst to use SQL based system so that they can easily perform a join on that.
 
 In PgAdmin, we created a new database named 'ETL_project_db' and created tables inside this database. For connecting to this database, we used 'create_engine' module from SQLAlchemy. Finally, we did loading of DataFrame into the SQL database.
 
